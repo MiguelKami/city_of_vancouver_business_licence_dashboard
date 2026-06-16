@@ -204,8 +204,7 @@ Files included:
 1. Cleaned dataset
 2. Power BI dashboard file
 3. Dashboard screenshots
-4. README file![Uploading Page1_BusinessOverview.png…]()
-
+4. README file
 
 ## What I Learned
 
